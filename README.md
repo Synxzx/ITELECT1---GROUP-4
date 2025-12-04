@@ -22,6 +22,11 @@
 ---
 ![Composer PHP Configuration](ComposerConfig.png)
 ---
+### ❌ ***If running php artisan serve does not work uncomment the extensions*** ❌
+**Open your php 8.5.0 and the php.ini file and edit the following:**
+> ;extension=mysqli => extension=mysqli
+> ;extension=pdo_mysql => extension=mysqli
+![Uncomment Extension](RemoveComment.png)
 ## <mark>Members:</mark>
 - Bernabe, Lance Carlo
 - David, John Kerby
