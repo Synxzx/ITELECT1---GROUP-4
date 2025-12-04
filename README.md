@@ -23,9 +23,9 @@
 ![Composer PHP Configuration](ComposerConfig.png)
 ---
 ## <mark>Members:</mark>
-1. Bernabe, Lance Carlo
-2. David, John Kerby
-3. Jabonete, King Hedson Reyll
-4. Lacsina, Sean Patrick
-5. Quito, Patrice
-6. Santos, Kian Kerby
+- Bernabe, Lance Carlo
+- David, John Kerby
+- Jabonete, King Hedson Reyll
+- Lacsina, Sean Patrick
+- Quito, Patrice
+- Santos, Kian Kerby
