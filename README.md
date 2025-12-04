@@ -7,7 +7,7 @@
 1. Run XAMPP
 2. Start <mark>Apache</mark> and <mark>mySQL</mark> 
 3. **visit:** [phpmyadmin](localhost/phpmyadmin)
-4. Import the **==medical_appointment_db.sql==** on the <mark>**SQL**</mark> tab 
+4. Import the <mark>**medical_appointment_db.sql**</mark> on the <mark>**SQL**</mark> tab 
 5. Check if the <mark>**medical_appointment_db**</mark> exists on the left panel
 6. Go to **VSCode** and open the repository you just cloned
 7. 📁*Example:*
