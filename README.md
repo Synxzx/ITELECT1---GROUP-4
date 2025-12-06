@@ -23,6 +23,9 @@
 ### ❌ ***Make sure to reconfigure Composer PHP directory to the latest one*** ❌
 ---
 ![Composer PHP Configuration](ComposerConfig.png)
+> [!CAUTION]
+> Do not set the path of Composer's PHP to the php folder of XAMPP
+> This is a separate PHP folder that is outside of XAMPP
 ---
 ### ❌ ***If running php artisan serve does not work uncomment the extensions*** ❌
 **Open your php 8.5.0 and the php.ini file and edit the following:**
