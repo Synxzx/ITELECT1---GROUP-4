@@ -16,8 +16,8 @@
 >8. Open the terminal of VSCode with <mark>**CTRL + ~**</mark>
 >9. **Enter command:**
 >
->`php artisan serve`
-10. click the **127.0.0.1:port_number** link and see if the API runs without any errors
+> `php artisan serve`
+> 10. click the **127.0.0.1:port_number** link and see if the API runs without any errors
 ---
 ## **If you run into an error, update your PHP version to 8.5.0^ or the latest version**
 ### ❌ ***Make sure to reconfigure Composer PHP directory to the latest one*** ❌
