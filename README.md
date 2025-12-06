@@ -13,7 +13,7 @@
 > 6. Go to **VSCode** and open the repository you just cloned
 > 7. 📁*Example:*
 > `C:\Users\<user>\medical_appointment_system\ITELECT1---GROUP-4\medical_appointment_system`
->8. Open the terminal of VSCode with <mark>**CTRL + ~**</mark>
+>8. Open the terminal of VSCode with **<mark>CTRL + ~</mark>**
 >9. **Enter command:**
 >
 > `php artisan serve`
