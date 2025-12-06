@@ -25,6 +25,7 @@
 ![Composer PHP Configuration](ComposerConfig.png)
 > [!CAUTION]
 > Do not set the path of Composer's PHP to the php folder of XAMPP
+> 
 > This is a separate PHP folder that is outside of XAMPP
 ---
 ### ❌ ***If running php artisan serve does not work uncomment the extensions*** ❌
